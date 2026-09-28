@@ -1,0 +1,16 @@
+{
+  "token": "42|Kq3vT0kenValueForTestsOnly0000000000000",
+  "contact": {
+    "id": 501,
+    "name": "Jane Wanjiru",
+    "email": "jane@example.com",
+    "mobile": "+254700000001",
+    "account_number": "M-000501",
+    "photo": null
+  },
+  "business": {
+    "id": 7,
+    "name": "Acme SACCO",
+    "currency_symbol": "KSh"
+  }
+}

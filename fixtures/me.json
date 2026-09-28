@@ -1,0 +1,10 @@
+{
+  "contact": {
+    "id": 501,
+    "name": "Jane Wanjiru",
+    "email": "jane@example.com",
+    "mobile": "+254700000001",
+    "account_number": "M-000501",
+    "photo": "https://app.zung.ai/uploads/contact_photos/jane.jpg"
+  }
+}

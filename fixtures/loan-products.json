@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "Development Loan",
+      "description": "For members with at least 6 months of savings.",
+      "minimum_principal": 5000,
+      "default_principal": 50000,
+      "maximum_principal": 500000,
+      "minimum_loan_term": 1,
+      "default_loan_term": 12,
+      "maximum_loan_term": 36,
+      "repayment_frequency": 1,
+      "repayment_frequency_type": "months",
+      "default_interest_rate": 1.5,
+      "interest_rate_type": "month"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "savings": {
+    "id": 301,
+    "account_number": "SV-301",
+    "status": "active",
+    "product_name": "Ordinary Savings",
+    "location": "Nairobi Branch",
+    "interest_rate": 5,
+    "total_deposit": 30000,
+    "current_balance": 27000,
+    "transactions": [
+      {
+        "id": 12001,
+        "type": "Deposit",
+        "credit": 5000,
+        "debit": 0,
+        "balance": 27000,
+        "date": "2026-09-01"
+      }
+    ]
+  }
+}

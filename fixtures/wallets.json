@@ -1,0 +1,12 @@
+{
+  "wallets": [
+    {
+      "id": 44,
+      "status": "active",
+      "balance": 1250.5,
+      "currency": "KES",
+      "location": "Nairobi Branch",
+      "description": null
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "wallet_balance": 1250.5,
+  "loans": {
+    "balance": 48000,
+    "arrears": 0,
+    "total_disbursed": 60000,
+    "count": 1
+  },
+  "savings": {
+    "total_deposit": 35000,
+    "balance": 32000,
+    "count": 2
+  }
+}

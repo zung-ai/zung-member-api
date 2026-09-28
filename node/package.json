@@ -1,0 +1,24 @@
+{
+  "name": "zung-node",
+  "version": "0.1.0",
+  "description": "Node.js client for the Zung Member API: member login, loans, repayment schedules, loan applications, savings and wallets for SACCOs and MFIs on Zung.",
+  "keywords": ["zung", "sacco", "mfi", "microfinance", "core-banking", "loans", "savings", "sdk", "api"],
+  "homepage": "https://zung.ai",
+  "license": "MIT",
+  "type": "module",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./src/index.d.ts",
+      "import": "./src/index.js"
+    }
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": ["src"],
+  "scripts": {
+    "test": "node --test"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "loans": [
+    {
+      "id": 9001,
+      "account_number": "LN-9001",
+      "status": "active",
+      "product_name": "Development Loan",
+      "loan_officer": "Peter Otieno",
+      "principal": 60000,
+      "applied_amount": 60000,
+      "current_balance": 48000,
+      "arrears_amount": 0,
+      "interest_rate": 1.5,
+      "interest_rate_type": "month",
+      "loan_term": 12,
+      "repayment_frequency": 1,
+      "repayment_frequency_type": "months",
+      "disbursed_on_date": "2026-06-01",
+      "expected_maturity_date": "2027-06-01",
+      "next_payment_due_date": "2026-10-01",
+      "next_payment_amount": 5500
+    }
+  ]
+}
